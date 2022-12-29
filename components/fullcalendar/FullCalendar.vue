@@ -3,7 +3,6 @@
 </template>
 
 <script>
-import '@fullcalendar/core/vdom'; // vite support
 import { Calendar } from '@fullcalendar/core';
 
 export default {
